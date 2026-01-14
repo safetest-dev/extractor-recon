@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/username/extractor-recon/internal/parser"
-	"github.com/username/extractor-recon/internal/probe"
+	"github.com/safetest-dev/extractor-recon/internal/parser"
+	"github.com/safetest-dev/extractor-recon/internal/probe"
 )
 
 type Scanner struct {
