@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/username/extractor-recon/internal/config"
-	"github.com/username/extractor-recon/internal/scanner"
-	"github.com/username/extractor-recon/pkg/output"
+	"github.com/safetest-dev/extractor-recon/internal/config"
+	"github.com/safetest-dev/extractor-recon/internal/scanner"
+	"github.com/safetest-dev/extractor-recon/pkg/output"
 )
 
 func main() {
