@@ -35,7 +35,7 @@ Built with long-term maintainability and auditability in mind.
 ## 📦 Download
 
 ```bash
-git clone https://github.com/username/extractor-recon.git
+git clone https://github.com/safetest-dev/extractor-recon.git
 cd extractor-recon
 ```
 
