@@ -3,7 +3,7 @@ package output
 import (
 	"fmt"
 
-	"github.com/username/extractor-recon/internal/scanner"
+	"github.com/safetest-dev/extractor-recon/internal/scanner"
 )
 
 func PrintText(results []scanner.Result) {
