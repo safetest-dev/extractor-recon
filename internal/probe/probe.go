@@ -3,7 +3,7 @@ package probe
 import (
 	"net/http"
 
-	"github.com/username/extractor-recon/internal/scanner"
+	"github.com/safetest-dev/extractor-recon/internal/scanner"
 )
 
 type Prober struct {
