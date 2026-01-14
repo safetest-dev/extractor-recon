@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/username/extractor-recon/internal/scanner"
+	"github.com/safetest-dev/extractor-recon/internal/scanner"
 )
 
 func PrintJSON(results []scanner.Result) {
