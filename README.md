@@ -59,7 +59,7 @@ go version
 Initialize dependencies (first time only):
 
 ```bash
-go mod init github.com/username/extractor-recon
+go mod init github.com/safetest-dev/extractor-recon
 go get golang.org/x/net/html
 ```
 
